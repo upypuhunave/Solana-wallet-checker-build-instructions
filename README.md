@@ -114,3 +114,5 @@ Here's how to build the SolanaChecker project.
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update:  16 June url is now available
